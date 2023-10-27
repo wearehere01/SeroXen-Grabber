@@ -8,14 +8,17 @@
 ## Prices
 
 **1 Week Key**
+
 - 0.00015 BTC
-- Nitro Basic x2 Months
+- Nitro Basic 2 Months
+
 **1 Month Key**
 - 0.00044 BTC
-- Nitro Boost x2 Months
+- Nitro Boost 2 Months
+
 **Life Time**
 - 0.0018 BTC
-- Nitro Boost x1 Year
+- Nitro Boost 1 Year
 
 ## Features
 
