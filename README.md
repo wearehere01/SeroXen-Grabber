@@ -54,3 +54,7 @@
 -   Startup persistence
     -   Place stub in appdata
     -   Add to startup registry
+
+<div align="center">
+    <sub>This is a modified version of Empyream.</sub>
+</div>
